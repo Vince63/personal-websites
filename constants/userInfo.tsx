@@ -1,11 +1,5 @@
-export const name = '___';
-export const description = `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.`;
+export const name = 'Vincent Li';
+export const description = `Welcome to my personal website! I'm currently a high school student at Diamond Bar High School.`;
 export const LinkedinURL = 'https://www.linkedin.com/in/manasa-lingireddy/';
 export const GithubURL = 'https://github.com/manasaling';
 export const InstagramURL = 'https://www.instagram.com/manasa.ling/';
