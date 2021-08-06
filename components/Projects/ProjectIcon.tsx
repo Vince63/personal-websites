@@ -16,6 +16,7 @@ type ProjectIconProps = {
 };
 
 const ProjectIcon = ({ title, description, imageURL }: ProjectIconProps) => {
+  //@ts-ignore
   const { dispatch } = useContext(store);
 
   const handleImageClicked = () => {

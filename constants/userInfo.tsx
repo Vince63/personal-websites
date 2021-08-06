@@ -9,7 +9,7 @@ export const description = `Lorem ipsum dolor sit amet, consectetur adipiscing e
 export const LinkedinURL = 'https://www.linkedin.com/in/manasa-lingireddy/';
 export const GithubURL = 'https://github.com/manasaling';
 export const InstagramURL = 'https://www.instagram.com/manasa.ling/';
-export const email = 'vincentli636@gmail.com';
+export const email = 'af03f644e6eeda1d4c48884b2aa48beb';
 
 export const tmp_project_list = [
   {
